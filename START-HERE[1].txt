@@ -1,0 +1,7 @@
+INDUJHA PORTFOLIO
+
+1. Extract this ZIP using right-click > Extract All.
+2. Open the extracted folder named 'portfolio'.
+3. Double-click index.html.
+
+The dark theme, CSS and profile photo are embedded directly in index.html to prevent the plain unstyled page issue. Keep the assets folder beside index.html because it contains the PDF certificates and project reports.
